@@ -50,13 +50,13 @@
 ### Задание 2
 
 Скриншот-1 к заданию 2:
-![Скриншот-1](https://github.com/kshatyy/zabbix-dz1/blob/main/img/dz2-1.png)
+![Скриншот-1](https://github.com/kshatyy/dzip/blob/main/img/dz2-1.png)
 Скриншот-2 к заданию 2:
-![Скриншот-1](https://github.com/kshatyy/zabbix-dz1/blob/main/img/dz2-2.png)
+![Скриншот-1](https://github.com/kshatyy/dzip/blob/main/img/dz2-2.png.png)
 Скриншот-3 к заданию 2:
-![Скриншот-1](https://github.com/kshatyy/zabbix-dz1/blob/main/img/dz2-3.png)
+![Скриншот-1](https://github.com/kshatyy/dzip/blob/main/img/dz2-3.png.png)
 Скриншот-4 к заданию 2:
-![Скриншот-1](https://github.com/kshatyy/zabbix-dz1/blob/main/img/dz2-4.png)
+![Скриншот-1](https://github.com/kshatyy/dzip/blob/main/img/dz2-4.png.png)
 
 
 ---
