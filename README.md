@@ -25,7 +25,8 @@
 ### Задание 1
 
 ![Скриншот-1](https://github.com/kshatyy/dzip/blob/main/img/dz1.png)
-**"https://github.com/kshatyy/dzip/blob/main/img/dz1.pkt"**
+
+**https://github.com/kshatyy/dzip/blob/main/img/dz1.pkt**
 
 
 ---
